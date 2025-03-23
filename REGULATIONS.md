@@ -1,4 +1,7 @@
 # RetroTournaments Regulations - Super Mario Bros.
+# Used for the Super Mario STA & LTA events
+# 2025 SoCal Retro Gaming Expo
+## June 6 - 8, 2025
 
 Version 0 - Indev
 
@@ -132,6 +135,8 @@ Any changes to the regulations will be made by pull request only.
 - 4f) The number of heats during qualifiers SHOULD be determined by the number of competitors registered.
 - 4g) The tournament commissioner MAY add heats if they determine it necessary.
 - 4h) Qualifier results and standings MUST be maintained in real time throughout the competition.
+- 4g) STA qualifiers MUST occur at the TBD time during the 2025 SoCal Retro Gaming Expo.
+- 4i) All STA competitors MUST be registered by May 25, 2025.
 
 ## Article 5: STA Finals
 
@@ -159,15 +164,16 @@ Any changes to the regulations will be made by pull request only.
     - DNF = 0 points
 - 5f) Division place MUST be based on total score of all heats in the division.
 - 5g) Score MUST reset at the start of each division.
-- 5h) Final standings MUST be based on the total score of the first division.        
+- 5h) Final standings MUST be based on the total score of the first division.
+- 5i) STA finals MUST occur at the TBD time during the 2025 SoCal Retro Gaming Expo.       
 
 ## Article 6: LTA Qualifications
 
 - 6a) All registered competitors MAY participate in the LTA qualifiers.
-- 6b) All registered competitors MUST complete their qualifying session within a 30 day window established before registration.
+- 6b) All registered competitors MUST complete their qualifying session between April 20, 2025 and May 20, 2025 (Timezone = anywhere on Earth).
 - 6c) Each competitor MUST complete their qualifying attempt within the established time frame:
-    - 6c1) 90 minutes for any%
-    - 6c2) 75 minutes for Warpless
+    - 6c1) 60 minutes for any%
+    - 6c2) 60 minutes for Warpless
 - 6d) Competitor MAY reset and restart attempts an infinite amount of times during the established timeframe.
 - 6e) Competitor MUST maintain a countdown clock for the qualifying time frame.
 - 6f) A competitor's final attempt MUST start with 00:01 time remaining on their qualifying clock.
@@ -182,6 +188,14 @@ Any changes to the regulations will be made by pull request only.
 - 6o) An approved third party MUST retime the run to the frame and Bowser pattern.
 - 6p) A qualifying leaderboard MUST be publically available in realtime. All times must be added once retiming is complete.
 - 6q) The number of finalist MUST be established prior to registration.
+- 6r) In the event a competitor cannot complete their LTA qualifier in the schedule timeframe, a second attempt MAY be awarded through the following process:
+    -6r1) The competitor MAY submit an appeal to the Orgizinizing Officials within 48 hours of the initial attempt.
+    -6r2) The Orgizining Officials MAY unanimously approves the appeal. (Note: Each appeal will be handled independently and fair.
+    -6r3) Other competitors with a submitted run, MUST NOT object to a second attempt within 24 hours of the approved appear.
+    -6r4) If all criteria stated above is met, the competitor MAY submit a second run. If May 20, 2025 has already passed, then the competitor will be given 72 hours or until June 2, 2025, which ever      occurs first.
+- Final qualifying leaderbord MUST be verified on May 21, 2025.
+- Appeals MAY be submitted until June 1, 2025.
+- All final decisions MUST be in place by June 2, 2025.
 
 ## Article 7: LTA Finals
 
@@ -197,7 +211,8 @@ Any changes to the regulations will be made by pull request only.
 - 7h) Competitors MUST have a timer running for each attempt.
 - 7i) Competitors MAY submit the run with the best time as their final submission.
 - 7j) The final submission MUST be timed in this format: 00:00.000.
-- 7k) The tournament scorekeeper MUST retime the final submission to the frame and Bowser pattern.   
+- 7k) The tournament scorekeeper MUST retime the final submission to the frame and Bowser pattern.
+- 8k) LTA final MUST occur at the TBD time during the 2025 SoCal Retro Gaming Expo.  
 
 ## Article 8: Finances
 
