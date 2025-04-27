@@ -185,13 +185,13 @@ Any changes to the regulations will be made by pull request only.
 - 6n) The qualifying run must be timed in this format: 00:00.000.
 - 6o) An approved third party MUST retime the run to the frame.
 - 6p) A qualifying leaderboard MUST be publically available in realtime. All times MUST be added once retiming is complete.
-- 6r) In the event a competitor cannot complete their LTA qualifier due to extenuating circumstances (for example technical difficulties), a second attempt MAY be awarded through the following process:
-    - 6r1) The competitor MAY submit an appeal to the Orgizinizing Officials within 48 hours of the initial attempt.
-    - 6r2) The Orgizining Officials MAY unanimously approve the appeal. (Note: Each appeal will be considered individually.)
-    - 6r3) If all criteria stated above is met, the competitor MAY submit a second run. If May 31, 2025 has already passed, then the competitor will be given 48 hours or until June 3, 2025, whichever occurs first.
-- Final qualifying leaderboard MUST be verified by June 3, 2025.
-- Appeals MAY be submitted until June 2, 2025.
-- All final decisions MUST be in place by June 3, 2025.
+- 6q) In the event a competitor cannot complete their LTA qualifier due to extenuating circumstances (for example technical difficulties), a second attempt MAY be awarded through the following process:
+    - 6q1) The competitor MAY submit an appeal to the Orgizinizing Officials within 48 hours of the initial attempt.
+    - 6q2) The Orgizining Officials MAY unanimously approve the appeal. (Note: Each appeal will be considered individually.)
+    - 6q3) If all criteria stated above is met, the competitor MAY submit a second run. If May 31, 2025 has already passed, then the competitor will be given 48 hours or until June 3, 2025, whichever occurs first.
+- 6r) Final qualifying leaderboard MUST be verified by June 3, 2025.
+- 6s) Appeals MAY be submitted until June 2, 2025.
+- 6t) All final decisions MUST be in place by June 3, 2025.
 
 ## Article 7: LTA Finals
 
