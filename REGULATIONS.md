@@ -99,7 +99,7 @@ Any changes to the regulations will be made by pull request only.
 - 3a) All CRGA tournaments are conducted on original hardware or MiSTer FPGA:
     - 3a1) Tournament hardware MUST be established at the time of registration.
     - 3a2) All competitors MUST use identical hardware.
-    - 3a3) All units used by competitors MUST operate software as intended by manufacturer.
+    - 3a3) All units used by competitors MUST operate software as intended by the manufacturer.
     - 3a4) STA equipment MUST sync the start of each heat on the same framerule.   
 - 3b) All tournament displays will be provided:
     - 3b1) Each competitor MUST have an intended CRT monitor for their station.
@@ -169,11 +169,12 @@ Any changes to the regulations will be made by pull request only.
 
 ## Article 6: LTA Qualifications
 
+
 - 6a) All registered competitors MAY participate in the LTA qualifiers.
-- 6b) All registered competitors MUST complete their qualifying session between April 20, 2025 and May 20, 2025 (Timezone = anywhere on Earth).
+- 6b) All registered competitors MUST complete their qualifying session between May 1, 2025 and May 31, 2025 (Timezone = anywhere on Earth).
 - 6c) Each competitor MUST complete their qualifying attempt within the established time frame:
-    - 6c1) 60 minutes for any%
-    - 6c2) 60 minutes for Warpless
+   - 6c1) 90 minutes for any%
+   - 6c2) 90 minutes for Warpless
 - 6d) Competitor MAY reset and restart attempts an infinite amount of times during the established timeframe.
 - 6e) Competitor MUST maintain a countdown clock for the qualifying time frame.
 - 6f) A competitor's final attempt MUST start with 00:01 time remaining on their qualifying clock.
@@ -182,20 +183,21 @@ Any changes to the regulations will be made by pull request only.
 - 6i) Competitor MUST begin qualifying within 30 minutes of their designated time.
 - 6j) Competitor MAY reschedule their qualifying 1 hour in advance of their designated time.
 - 6k) Competitor MUST live stream their qualifying round on Twitch, YouTube, and/or discord.
-- 6l) Competitor MUST have 1 established official witness their qualifying round.
+- 6l) Competitor MUST have 2 established witnesses in their qualifying round. (Witness MAY be another registered competitor and/or a tournament official)
 - 6m) Competitor MAY submit the run with the best time during the round as their qualifier.
 - 6n) The qualifying run must be timed in this format: 00:00.000.
 - 6o) An approved third party MUST retime the run to the frame and Bowser pattern.
-- 6p) A qualifying leaderboard MUST be publically available in realtime. All times must be added once retiming is complete.
-- 6q) The number of finalist MUST be established prior to registration.
-- 6r) In the event a competitor cannot complete their LTA qualifier in the schedule timeframe, a second attempt MAY be awarded through the following process:
-    -6r1) The competitor MAY submit an appeal to the Orgizinizing Officials within 48 hours of the initial attempt.
-    -6r2) The Orgizining Officials MAY unanimously approves the appeal. (Note: Each appeal will be handled independently and fair.
-    -6r3) Other competitors with a submitted run, MUST NOT object to a second attempt within 24 hours of the approved appear.
-    -6r4) If all criteria stated above is met, the competitor MAY submit a second run. If May 20, 2025 has already passed, then the competitor will be given 72 hours or until June 2, 2025, which ever      occurs first.
-- Final qualifying leaderbord MUST be verified on May 21, 2025.
-- Appeals MAY be submitted until June 1, 2025.
-- All final decisions MUST be in place by June 2, 2025.
+- 6p) A qualifying leaderboard MUST be publically available in realtime. All times MUST be added once retiming is complete.
+- 6q) The number of finalists MUST be established prior to registration.
+- 6r) In the event a competitor cannot complete their LTA qualifier in the schedule time frame, a second attempt MAY be awarded through the following process:
+   -6r1) The competitor MAY submit an appeal to the Orgizinizing Officials within 48 hours of the initial attempt.
+   -6r2) The Orgizining Officials MAY unanimously approve the appeal. (Note: Each appeal will be handled independently and fair.)
+   -6r3) Other competitors with a submitted run MUST NOT object to a second attempt within 24 hours of the approved appearance.
+   -6r4) If all criteria stated above is met, the competitor MAY submit a second run. If May 31, 2025 has already passed, then the competitor will be given 72 hours or until June 2, 2025, whichever occurs first.
+- Final qualifying leaderboard MUST be verified by June 3, 2025.
+- Appeals MAY be submitted until June 2, 2025.
+- All final decisions MUST be in place by June 3, 2025.
+
 
 ## Article 7: LTA Finals
 
