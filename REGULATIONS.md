@@ -186,9 +186,9 @@ Any changes to the regulations will be made by pull request only.
 - 6o) An approved third party MUST retime the run to the frame.
 - 6p) A qualifying leaderboard MUST be publically available in realtime. All times MUST be added once retiming is complete.
 - 6r) In the event a competitor cannot complete their LTA qualifier due to extenuating circumstances (for example technical difficulties), a second attempt MAY be awarded through the following process:
-   -6r1) The competitor MAY submit an appeal to the Orgizinizing Officials within 48 hours of the initial attempt.
-   -6r2) The Orgizining Officials MAY unanimously approve the appeal. (Note: Each appeal will be considered individually.)
-   -6r4) If all criteria stated above is met, the competitor MAY submit a second run. If May 31, 2025 has already passed, then the competitor will be given 72 hours or until June 2, 2025, whichever occurs first.
+    - 6r1) The competitor MAY submit an appeal to the Orgizinizing Officials within 48 hours of the initial attempt.
+    - 6r2) The Orgizining Officials MAY unanimously approve the appeal. (Note: Each appeal will be considered individually.)
+    - 6r4) If all criteria stated above is met, the competitor MAY submit a second run. If May 31, 2025 has already passed, then the competitor will be given 72 hours or until June 2, 2025, whichever occurs first.
 - Final qualifying leaderboard MUST be verified by June 3, 2025.
 - Appeals MAY be submitted until June 2, 2025.
 - All final decisions MUST be in place by June 3, 2025.
