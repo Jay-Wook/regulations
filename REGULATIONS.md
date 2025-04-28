@@ -172,26 +172,25 @@ Any changes to the regulations will be made by pull request only.
 - 6a) All registered competitors MAY participate in the LTA qualifiers.To register you must fill out this form:https://forms.gle/ZkGzMH7xF9PLmVs76 
 - 6b) All registered competitors MUST complete their qualifying session between May 1, 2025 and May 31, 2025.
 - 6c) Each competitor MUST complete their qualifying attempt within the established time frame:
-    - 6c1) 90 minutes for any%
-    - 6c2) 90 minutes for Warpless
+   - 6c1) 90 minutes for any%
+   - 6c2) 90 minutes for Warpless
 - 6d) Competitor MAY reset and restart attempts any amount of times during the established timeframe.
 - 6e) Competitor MUST maintain a visible countdown clock for the qualifying time frame.
 - 6f) A competitor's final attempt MUST start with at least 00:01 time remaining on their qualifying clock.
 - 6g) Competitor SHOULD have a timer running for each attempt.
 - 6h) Competitor MUST notify they are starting their qualifying attempt by posting a link to their stream in the “#socal-retro-2025” discord channel and tagging @Jay-the-Wook.
 - 6k) Competitor MUST live stream their qualifying round on Twitch, YouTube, and/or discord. A VOD copy MUST be available after the qualifying session concludes.
-- 6l) Competitor MUST have 2 established witnesses in their qualifying round. (Witness MAY be another registered competitor and/or a tournament official)
-- 6m) Competitor MAY submit the run with the best time during the round as their qualifier.
-- 6n) The qualifying run must be timed in this format: 00:00.000.
-- 6o) An approved third party MUST retime the run to the frame.
-- 6p) A qualifying leaderboard MUST be publically available in realtime. All times MUST be added once retiming is complete.
-- 6q) In the event a competitor cannot complete their LTA qualifier due to extenuating circumstances (for example technical difficulties), a second attempt MAY be awarded through the following process:
-    - 6q1) The competitor MAY submit an appeal to the Orgizinizing Officials within 48 hours of the initial attempt.
-    - 6q2) The Orgizining Officials MAY unanimously approve the appeal. (Note: Each appeal will be considered individually.)
-    - 6q3) If all criteria stated above is met, the competitor MAY submit a second run. If May 31, 2025 has already passed, then the competitor will be given 48 hours or until June 3, 2025, whichever occurs first.
-- 6r) Final qualifying leaderboard MUST be verified by June 3, 2025.
-- 6s) Appeals MAY be submitted until June 2, 2025.
-- 6t) All final decisions MUST be in place by June 3, 2025.
+- 6l) Competitor MAY submit the run with the best time during the round as their qualifier.
+- 6m) The qualifying run MUST be timed in this format: 00:00.000.
+- 6n) Each run MUST be retimed by the Organizing Officials to the frame. (@Jay-the-Wook or @FlibidyDibidy)
+- 6o) A qualifying leaderboard MUST be publically available in realtime. All times MUST be added once retiming is complete.
+- 6p) In the event a competitor cannot complete their LTA qualifier due to extenuating circumstances (for example technical difficulties), a second attempt MAY be awarded through the following process:
+    - 6p1) The competitor MAY submit an appeal to the Organizing Officials within 48 hours of the initial attempt.
+    - 6p2) The Orgizining Officials MAY unanimously approve the appeal. (Note: Each appeal will be considered individually.)
+    - 6p3) If all criteria stated above is met, the competitor MAY submit a second run. If May 31, 2025 has already passed, then the competitor will be given 48 hours or until June 3, 2025, whichever occurs first.
+- 6q) Final qualifying leaderboard MUST be verified by June 3, 2025.
+- 6r) Appeals MAY be submitted until June 2, 2025.
+- 6s) All final decisions MUST be in place by June 3, 2025.
 
 ## Article 7: LTA Finals
 
