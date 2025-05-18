@@ -56,7 +56,7 @@ Any changes to the regulations will be made by pull request only.
     - 1f2) The scorekeeper MUST make the tournament information available to the competing persons in a timely manner.
     - 1f3) The scorekeeper MUST make records available at retrotournaments.org.
     - 1f4) The scorekeeper MUST make the final tournament results available to the CRGA scoremaster following the event.
-    - 1f5) Any member of the organizing team MAY take on the role scorekeeper role.
+    - 1f5) Any member of the organizing team MAY take on the role of scorekeeper.
     
 ## Article 2: Competitors and Code of Conduct
 
