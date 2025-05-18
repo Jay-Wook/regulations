@@ -79,7 +79,7 @@ Any changes to the regulations will be made by pull request only.
     - 2k1) They MUST provide their unique CRGA identifier if available.
     - 2k2) They MUST provide an alias to use during the competition.
     - 2k3) They MUST provide a suitable email address to serve as contact.
-    - 2k4) They SHOULD provide legal name and identification to be eligible for monetary awards. (Note: CRGA MUST respenct all player's right to anonymity.)
+    - 2k4) They SHOULD provide legal name and identification to be eligible for monetary awards. (Note: CRGA MUST respect all player's right to anonymity.)
 - 2l) All persons MUST NOT use any external aids that give an unfair advantage. This includes:
     - 2l1) Written notes or other unfair non-electronic aids.
     - 2l2) Laptops or other unfair electronic aids.
@@ -106,7 +106,7 @@ Any changes to the regulations will be made by pull request only.
     - 3c5) Tournament commissioner and/or lead engineer MAY inspect any equipment before, during, or after the tournament.
 - 3d) All persons MUST provide their own practice equipment before and during the tournament.
 - 3e) Competitors MUST NOT use any CRGA equipment unless permission is given by that competitions's commissioner and/or lead engineer.
-- 3e) The competition commission MUST ensure all equipment provides each competitor with equipment that performs as intended by the manufacturer.
+- 3f) The competition commission MUST ensure all equipment provides each competitor with equipment that performs as intended by the manufacturer.
 
 ## Article 4: STA Qualifications
 
@@ -132,7 +132,7 @@ Any changes to the regulations will be made by pull request only.
     - 5a5) Additional divisions established based on the number of registrants.
     - (Note: The number of competitors in each division MAY lessen due to equipment failure.)
     - 5a6) The winner of each division MAY qualify to compete in the next division.
-- 5c) The first division MUST have 10 heats for the final any% competition. The first division MUST have 3 heats for the final Warlpless competition.
+- 5c) The first division MUST have 10 heats for the final any% competition. The first division MUST have 3 heats for the final Warpless competition.
 - 5d) The tournament commissioner MUST establish the number of heats for each subsequent division based on:
     - 5d1) The number of divisions required for the finals.
     - 5d2) The amount of time allotted for each race.
