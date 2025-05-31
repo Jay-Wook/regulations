@@ -16,7 +16,7 @@ Version 2 - Indev - May 17, 2025.
 
 Uses of the uppercase words "MUST", "MUST NOT", "SHOULD", "SHOULD NOT" and "MAY" match the guidance in [RFC 2119](https://www.rfc-editor.org/info/rfc2119) Updated by [RFC 8174](https://www.rfc-editor.org/info/rfc8174).
 
-The Acronym CRGA stands for 'Competitive Retro Gaming Association'.
+The Acronym RTO stands for 'Retro Tournaments Organization'.
 The Acronym STA stands for 'Simultaneous Time Attack'; is defined as a race where all competitors in a given heat start simultaneously on the same frame rule and score points based on the place they finish the game.
 The Acronym LTA stands for 'Live Time Attack'; is defined as a race where all competitors are given a limited timeframe to post their fastest time.  Competitors are allowed unlimited resets as-long-as the last trial starts 00:01 before the time limit expires.
 The rules established for LTA and RTA will be applicable for any% - (1-1, 1-2, 4-1, 4-2, 8-1, 8-2, 8-3, 8-4) and Warpless (all 32 stages).
@@ -31,10 +31,10 @@ Any changes to the regulations will be made by pull request only.
 ## Article 1: Tournament Organization and Officials
 
 - 1a) All tournaments MUST be organized such that any competing person has an equal opportunity to win.
-- 1b) All tournaments MUST have an organizing team (consisting of two or more individuals) appointed by the CRGA board-of-directors as stated in CRGA BYLAWS.md (link to be provided):
+- 1b) All tournaments MUST have an organizing team (consisting of two or more individuals) appointed by the RTO board-of-directors as stated in RTO BYLAWS.md (link to be provided):
     - 1b1) Tournament Commissioner -  who is responsible for logistics before, during, and after the tournament.
-    - 1b2) Tournament Lead Engineer - who is responsible for assembling, operating, and maintaining CRGA equipment before, during and after the tournament.
-    - 1b3) Tournament Media Lead (optional) - who is  66 responsible for video capture, stream broadcast (hosted by CRGA and/or sponsoring event), and social media.
+    - 1b2) Tournament Lead Engineer - who is responsible for assembling, operating, and maintaining RTO equipment before, during and after the tournament.
+    - 1b3) Tournament Media Lead (optional) - who is  66 responsible for video capture, stream broadcast (hosted by RTO and/or sponsoring event), and social media.
     - 1b4) Support Team (optional) - assist with duties listed above as needed.
     - 1b5) Organizing team members MAY serve in multiple roles during a tournament. 
 - 1c) Members of the tournament organizing team MUST NOT participate in the competition.
@@ -44,24 +44,24 @@ Any changes to the regulations will be made by pull request only.
     - 1d3) The Commissioner MUST finalize and settle any disputes that occur during the competition.
     - 1d4) If one or more competitors experiences an equipment failure outside their control during a race, the commissioner MUST provide a "make-up" round.
 - 1e) The BOD MUST identify a lead Tournament Engineer for each event:
-    - 1e1) The lead engineer MUST ensure all CRGA equipment is assembled and fully operational prior to the start of an event.
-    - 1e2) The lead engineer MAY perform live tests with competitors prior to the event; all competitors MUST have equal opportunity to practice on CRGA equipment.
-    - 1e3) The lead engineer MUST ensure the CRGA equipment is fully operational throughout the tournament.
+    - 1e1) The lead engineer MUST ensure all RTO equipment is assembled and fully operational prior to the start of an event.
+    - 1e2) The lead engineer MAY perform live tests with competitors prior to the event; all competitors MUST have equal opportunity to practice on RTO equipment.
+    - 1e3) The lead engineer MUST ensure the RTO equipment is fully operational throughout the tournament.
     - 1e4) The lead engineer MUST troubleshoot and fix any errors that occur during the tournament.
     - 1e5) The lead engineer MUST report any technical issues during the tournament immediately to the commissioner.
-    - 1e6) The lead engineer MUST securely store CRGA equipment at the end of each day of the tournament.
+    - 1e6) The lead engineer MUST securely store RTO equipment at the end of each day of the tournament.
     - 1e7) The lead engineer MUST securely disassemble equipment at the conclusion of the tournament.
 - 1f) The commissioner MUST identify a scorekeeper.
     - 1f1) The scorekeeper MUST verify the scores, times, or other relevant information which is used to identify the tournament winner.
     - 1f2) The scorekeeper MUST make the tournament information available to the competing persons in a timely manner.
     - 1f3) The scorekeeper MUST make records available at retrotournaments.org.
-    - 1f4) The scorekeeper MUST make the final tournament results available to the CRGA scoremaster following the event.
+    - 1f4) The scorekeeper MUST make the final tournament results available to the RTO scoremaster following the event.
     - 1f5) Any member of the organizing team MAY take on the role of scorekeeper.
     
 ## Article 2: Competitors and Code of Conduct
 
-- 2a) All persons MUST promote fairness and honor during all CRGA events.
-- 2b) All persons MUST obey rules and laws outside CRGA:
+- 2a) All persons MUST promote fairness and honor during all RTO events.
+- 2b) All persons MUST obey rules and laws outside RTO:
     - 2b1) All persons MUST respect and follow the laws governed by the United States during the competition.
     - 2b2) All persons MUST respect and follow the laws governed by local jurisdiction (and country if not on U.S. soil) of the host competition site.
     - 2b3) All persons MUST comply with venue rules.
@@ -70,26 +70,26 @@ Any changes to the regulations will be made by pull request only.
 - 2g) All persons MUST conduct themselves in a considerate manner.
 - 2h) All persons MUST be 18 years of age by the close of registration or have written permission from a legal parent or guardian.
 - 2i) All persons MUST be suitably dressed.
-- 2j) Any person MAY compete in a CRGA Tournament providing:
+- 2j) Any person MAY compete in a RTO Tournament providing:
     - 2j1) They MUST comply with these regulations.
     - 2j2) They MUST register for the tournament by the stated deadline.
-    - 2j3) They MUST NOT be suspended by the CRGA.
+    - 2j3) They MUST NOT be suspended by the RTO.
     - 2j4) They MUST meet any additional eligibility requirements.
 - 2k) In order to register the person MUST provide necessary information.
-    - 2k1) They MUST provide their unique CRGA identifier if available.
+    - 2k1) They MUST provide their unique RTO identifier if available.
     - 2k2) They MUST provide an alias to use during the competition.
     - 2k3) They MUST provide a suitable email address to serve as contact.
-    - 2k4) They SHOULD provide legal name and identification to be eligible for monetary awards. (Note: CRGA MUST respect all player's right to anonymity.)
+    - 2k4) They SHOULD provide legal name and identification to be eligible for monetary awards. (Note: RTO MUST respect all player's right to anonymity.)
 - 2l) All persons MUST NOT use any external aids that give an unfair advantage. This includes:
     - 2l1) Written notes or other unfair non-electronic aids.
     - 2l2) Laptops or other unfair electronic aids.
     - 2l3) Modified controllers or other gaming peripherals.
-- 2m) All persons MUST NOT modify, adjust, or otherwise tamper with CRGA technology.
-- 2n) CRGA MAY suspend or expel any person from the competition and/or league at any time the code of conduct is violated.
+- 2m) All persons MUST NOT modify, adjust, or otherwise tamper with RTO technology.
+- 2n) RTO MAY suspend or expel any person from the competition and/or league at any time the code of conduct is violated.
 
 ## Article 3: Equipment
 
-- 3a) All CRGA tournaments are conducted on original hardware or MiSTer FPGA:
+- 3a) All RTO tournaments are conducted on original hardware or MiSTer FPGA:
     - 3a1) Tournament hardware MUST be established at the time of registration.
     - 3a2) All competitors MUST use identical hardware.
     - 3a3) All units used by competitors MUST operate software as intended by the manufacturer.  
@@ -105,7 +105,7 @@ Any changes to the regulations will be made by pull request only.
     - 3c4) Third party controllers MAY be accepted at the sole discretion of the tournament commissioner.
     - 3c5) Tournament commissioner and/or lead engineer MAY inspect any equipment before, during, or after the tournament.
 - 3d) All persons MUST provide their own practice equipment before and during the tournament.
-- 3e) Competitors MUST NOT use any CRGA equipment unless permission is given by that competitions's commissioner and/or lead engineer.
+- 3e) Competitors MUST NOT use any RTO equipment unless permission is given by that competitions's commissioner and/or lead engineer.
 - 3f) The competition commission MUST ensure all equipment provides each competitor with equipment that performs as intended by the manufacturer.
 
 ## Article 4: STA Qualifications
