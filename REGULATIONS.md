@@ -3,7 +3,7 @@
 # 2025 SoCal Retro Gaming Expo
 ## June 6 - 8, 2025
 
-Version 2 - Indev - May 17, 2025.
+Version 3.1 - Indev - May 31, 2025.
 
 ## Logistics
 
